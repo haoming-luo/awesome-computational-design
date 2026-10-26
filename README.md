@@ -74,6 +74,7 @@ Grouped by what you reach for them to do. Entries are alphabetical within each g
 
 ### Simulation & multiphysics
 
+- [AgentFEM](https://github.com/haoming-luo/agentfem) — FEniCSx-based finite-element workflows for Python and AI assistants, with readable model files, structured execution and inspectable results
 - [Elmer FEM](https://github.com/ElmerCSC/elmerfem) — multiphysical FEM suite, strong on coupled and electromagnetic problems
 - [FEniCSx](https://github.com/FEniCS/dolfinx) — solve PDEs by writing their variational form more or less as the maths reads
 - [Kratos Multiphysics](https://github.com/KratosMultiphysics/Kratos) — FEM framework for coupled multiphysics; its OptimizationApplication does shape, thickness and topology optimization with adjoint gradients
